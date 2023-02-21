@@ -1,3 +1,3 @@
 # blank-slate
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/blank-slate-template)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/zalo-blank-slate)
